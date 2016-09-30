@@ -1,0 +1,14 @@
+{
+  "name": "sos",
+  "version": "0.0.0",
+  "author": "Pavlo Bashynskyi",
+  "email": "levonet@gmail.com",
+  "ignore": [
+    ".enb/tmp",
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-components": "3.0.1"
+  }
+}
